@@ -24,10 +24,10 @@
     float Take_home_salary=after_NI-Tax_contribution;
 
     // Use only these print statement with appropriate formatting and variable names
-    printf("Salary £%.2f \n",salary);
-    printf("NI contribution £%.2f \n",NI_contribution);
-    printf("Tax contribution £%.2f \n",Tax_contribution);
-    printf("Take home salary £%.2f \n",Take_home_salary);
+    printf("Salary £%.2f\n",salary);
+    printf("NI contribution £%.2f\n",NI_contribution);
+    printf("Tax contribution £%.2f\n",Tax_contribution);
+    printf("Take home salary £%.2f\n",Take_home_salary);
 
     return 0;
  }
